@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\ciger\source\repos\fileorgproje\fileorgproje\Source.cpp(632,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  2 of 486 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  fileorgproje.vcxproj -> C:\Users\ciger\source\repos\fileorgproje\x64\Release\fileorgproje.exe

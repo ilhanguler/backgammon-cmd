@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\ciger\source\repos\fileorgproje\fileorgproje\Source.cpp(632,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ciger\source\repos\fileorgproje\fileorgproje\Source.cpp(79): warning C4715: 'base::perspective': not all control paths return a value
+  fileorgproje.vcxproj -> C:\Users\ciger\source\repos\fileorgproje\x64\Debug\fileorgproje.exe
